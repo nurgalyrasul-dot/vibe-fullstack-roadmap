@@ -1,1 +1,0 @@
-# vibe-fullstack-roadmap
